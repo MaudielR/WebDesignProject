@@ -1,2 +1,0 @@
-# WebDesignProject
-Created with CodeSandbox
